@@ -1,0 +1,3 @@
+In step 2 (refactoring):
+1. Subqueries -> CTE (filtered categories and joined data)
+2. Simplier Joins
