@@ -1,0 +1,3 @@
+In step 3 (indexing):
+1. Created indexes on rows which are used in joins.
+2. Tested them by force/use index.
